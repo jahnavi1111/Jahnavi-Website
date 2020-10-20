@@ -160,13 +160,13 @@ margin:0 auto 30px;
   padding: 0 18px;
 }
 
-.color-it{
-  color: #66BFBF !important;
-  font-weight: bold;
-}
-
 .color-itt{
   color: #66BFBF !important;
   font-weight: bold;
   font-size:2rem;
+}
+
+.color-it{
+  color: #66BFBF !important;
+  font-weight: bold;
 }
