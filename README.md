@@ -1,2 +1,2 @@
 # Jahnavi_J
-My first website, made from scratch.
+My first website, made from scratch. :}
